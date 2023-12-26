@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+@layer utilities {
+    .btn {
+      
+border: 1px solid rgba(83, 80, 255, 0.05);
+background: rgba(83, 80, 255, 0.03);
+    }
+
+   
+}
